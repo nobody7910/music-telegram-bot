@@ -1,7 +1,7 @@
-# Install yt-dlp (latest or a specific working version)
-yt-dlp==2023.12.23
+yt-dlp==2023.12.23  # Correct version for yt-dlp
 # Other required packages:
 flask==2.1.1
 numpy==1.22.0
 requests==2.26.0
 pyaudio==0.2.11
+ 
