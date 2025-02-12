@@ -1,4 +1,7 @@
-yt-dlp==2024.12.6
+# Install yt-dlp (latest or a specific working version)
+yt-dlp  # Remove version to get the latest
+
+# Other required packages:
 flask==2.1.1
 numpy==1.22.0
 requests==2.26.0
