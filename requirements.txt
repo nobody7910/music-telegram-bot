@@ -1,5 +1,5 @@
-yt-dlp==2023.12.23  # yt-dlp version
-flask==2.1.1        # Flask version
-numpy==1.22.0       # NumPy version
-requests==2.26.0    # Requests version
-pyaudio==0.2.11     # PyAudio version
+yt-dlp==2024.3.10  # example of a working version
+flask==2.1.1
+numpy==1.22.0
+requests==2.26.0
+pyaudio==0.2.11
